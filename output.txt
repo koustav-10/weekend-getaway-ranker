@@ -1,0 +1,16 @@
+Name   City  Distance  Google review rating     Score
+0          India Gate  Delhi       0.0                   4.6  0.770856
+7            Red Fort  Delhi       0.0                   4.5  0.714773
+14        Qutub Minar  Delhi       0.0                   4.5  0.709495
+2   Akshardham Temple  Delhi       0.0                   4.6  0.681546
+6        Lotus Temple  Delhi       0.0                   4.5  0.677831
+17                                Gateway of India  Mumbai       0.0                   4.6  0.811452
+20                            Siddhivinayak Temple  Mumbai       0.0                   4.8  0.730791
+16                                    Marine Drive  Mumbai       0.0                   4.5  0.714773
+21                                Mahalaxmi Temple  Mumbai       0.0                   4.7  0.690133
+18  Chhatrapati Shivaji Maharaj Vastu Sangrahalaya  Mumbai       0.0                   4.6  0.679111
+315  Buddh International Circuit  Greater Noida  500.000000                   4.6  0.665714
+236                 Marina Beach        Chennai    0.000000                   3.9  0.589368
+31       ISKCON Temple Bangalore      Bangalore  290.543167                   4.6  0.537261
+28      Lalbagh Botanical Garden      Bangalore  290.543167                   4.4  0.529018
+30                Vidhana Soudha      Bangalore  290.543167                   4.6  0.523459
